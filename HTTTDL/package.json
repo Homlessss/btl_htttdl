@@ -1,0 +1,16 @@
+{
+    "name": "htttdl",
+    "version": "1.0.0",
+    "description": "",
+    "main": "index.js",
+    "type": "module",
+    "scripts": {
+        "start": "nodemon index.js"
+    },
+    "author": "",
+    "license": "ISC",
+    "dependencies": {
+        "nodemon": "^2.0.12",
+        "pg": "^8.6.0"
+    }
+}
